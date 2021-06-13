@@ -1,9 +1,7 @@
-## Welcome to Carita's Project Pages
+# This contains all documents of my personal webpage.
 
-### A simple Arduino UNO based kitchen timer, **[uno_timer](https://carita-chung.github.io/uno_timer/)**
-![uno_timer](https://carita-chung.github.io/uno_timer/uno_timer_p0.jpg){:class="img-responsive"}
+2021-06-13
+Create initial website. Add files and images.
 
-### Realtime bus schedule display device, **[wemos_bus](https://carita-chung.github.io/wemos_bus/)**
-![wemos_bus](https://carita-chung.github.io/wemos_bus/wemos_bus_p0.jpg){:class="img-responsive"}
 
 
